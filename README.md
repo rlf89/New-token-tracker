@@ -13,6 +13,7 @@ python3 freshCoins.py
 2. Install whatever python modules script is asking for:
 ```bash
 pip3 install termcolor
+
 ...
 ```
 ![working_example](exampleView.png)
