@@ -8,12 +8,11 @@ Both public APIs do not provide direct way for accessing newly listed tokens, so
 ## How to use
 1. Run:
 ```bash
-python freshCoins.py
+python3 freshCoins.py
 ```
 2. Install whatever python modules script is asking for:
 ```bash
 pip3 install termcolor
-```
 ...
-
+```
 ![working_example](exampleView.png)
